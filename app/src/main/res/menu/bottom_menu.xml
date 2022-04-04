@@ -6,21 +6,21 @@
         app:showAsAction="always"
         android:enabled="true"
         android:icon="@drawable/ic_baseline_home_24"
-        android:title="Write" />
+        android:title="홈" />
 
     <item
         android:id="@+id/second_tab"
         app:showAsAction="always"
         android:enabled="true"
         android:icon="@drawable/ic_baseline_search_24"
-        android:title="search"/>
+        android:title="검색"/>
 
     <item
         android:id="@+id/third_tab"
         app:showAsAction="always"
         android:enabled="true"
         android:icon="@drawable/ic_baseline_family_restroom_24"
-        android:title="Record">
+        android:title="상비약">
     </item>
 
     <item
@@ -28,7 +28,7 @@
         app:showAsAction="always"
         android:enabled="true"
         android:icon="@drawable/ic_baseline_calendar_today_24"
-        android:title="Setting">
+        android:title="캘린더">
     </item>
 
 
